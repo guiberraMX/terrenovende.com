@@ -132,11 +132,12 @@ dl dd .rating {
 
 h1 {
   font-size: 28px;
-  font-weight: lighter;
+  font-weight: 700;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   margin-bottom: 30px;
   margin-top: 10px;
   padding-bottom: 15px;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 
 h2 {
@@ -173,8 +174,11 @@ hr.divider {
 
 p {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
-  opacity: 0.7;
-  font-family: "Arial", sans-serif;
+  opacity: 1;
+  font-family: 'Alegreya Sans', sans-serif;
+  width: 700;
+  color: #606E25;
+
 }
 
 section {
@@ -280,7 +284,7 @@ ul.list-links li a:hover {
 }
 
 .background-color-default-darker {
-    background-color: #073855;
+    background-color: #94AD23;
 }
 
 .background-image {
@@ -1344,6 +1348,7 @@ ul.list-links li a:hover {
   height: 100%;
   padding: 30px;
   margin-bottom: 30px;
+  background-color: #E0D9C7;
 }
 .banner:hover {
   border-color: #d9d9d9;
@@ -3500,7 +3505,7 @@ ul.list-links li a:hover {
 }
 .tag.price {
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
-  background-color: #1396e2;
+  background-color: #859726;
   color: #fff;
   font-size: 14px;
   font-weight: bold;
