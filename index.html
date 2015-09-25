@@ -14,15 +14,23 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 
-    <title>Zoner | Google Map with Advanced Horizontal Search</title>
+    <title>Terreno Vende</title>
 
 </head>
 
-<body class="page-homepage map-google navigation-fixed-top horizontal-search" id="page-top" data-spy="scroll" data-target=".navigation" data-offset="90">
+<body class="page-homepage map-google horizontal-search-float" id="page-top" data-spy="scroll" data-target=".navigation" data-offset="90">
 <!-- Wrapper -->
 <div class="wrapper">
 
     <div class="navigation">
+
+     <div class="container">
+            <section class="center submission-message">
+                <header>Look Mom! A Sticky Footer!</header>
+                <p>All of the pages in Zoner has sticky footer, so they look awesome even with a small amount content.</p>
+                <a href="index-google-map-fullscreen.html" class="link-arrow">Go to homepage</a>
+            </section>
+        </div><!-- /.container -->
         <div class="secondary-navigation">
             <div class="container">
                 <div class="contact">
@@ -35,11 +43,7 @@
                         <a href="create-account.html" class="promoted"><strong>Register</strong></a>
                         <a href="sign-in.html">Sign In</a>
                     </div>
-                    <div class="language-bar">
-                        <a href="#" class="active"><img src="assets/img/flags/gb.png" alt=""></a>
-                        <a href="#"><img src="assets/img/flags/de.png" alt=""></a>
-                        <a href="#"><img src="assets/img/flags/es.png" alt=""></a>
-                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -106,7 +110,6 @@
                                 <li><a href="sticky-footer.html">Sticky Footer</a></li>
                                 <li><a href="pricing.html">Pricing</a></li>
                                 <li><a href="shortcodes.html">Shortcodes</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
                                 <li><a href="timeline.html">Timeline</a></li>
                                 <li><a href="terms-conditions.html">Terms & Conditions</a></li>
                                 <li><a href="rtl.html">RTL Support</a></li>
@@ -144,7 +147,7 @@
     </div>
 
     <!-- Map -->
-    <div id="map" class="has-parallax"></div>
+    <div id="map"></div>
     <!-- end Map -->
 
     <!-- Search Box -->
@@ -156,36 +159,9 @@
                         <li class="active"><a href="#search-form-sale" data-toggle="tab">Sale</a></li>
                         <li><a href="#search-form-rent" data-toggle="tab">Rent</a></li>
                     </ul>
-                    <hr>
                     <div class="tab-content">
                         <div class="tab-pane fade in active" id="search-form-sale">
-                            <a class="advanced-search-toggle" data-toggle="collapse" data-parent="#accordion" href="#advanced-search-sale">Advanced Sale Search <i class="fa fa-plus"></i></a>
-                            <form role="form" id="form-map-sale" class="form-map form-search clearfix has-dark-background">
-                                <div id="advanced-search-sale" class="panel-collapse collapse">
-                                    <div class="advanced-search">
-                                        <header><h3>Property Features</h3></header>
-                                        <ul class="submit-features">
-                                            <li><div class="checkbox"><label><input type="checkbox">Air conditioning</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Bedding</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Heating</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Internet</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Microwave</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Smoking allowed</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Use of pool</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Toaster</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Coffee pot</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Cable TV</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Parquet</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Roof terrace</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Terrace</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Balcony</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Iron</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Hi-Fi</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Beach</label></div></li>
-                                            <li><div class="checkbox"><label><input type="checkbox">Garage</label></div></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                            <form role="form" id="form-map-sale" class="form-map form-search clearfix">
                                 <div class="row">
                                     <div class="col-md-2 col-sm-4">
                                         <div class="form-group">
@@ -252,7 +228,7 @@
                                         </div><!-- /.form-group -->
                                     </div>
                                 </div>
-                            </form><!-- /#form-map-sale -->
+                            </form><!-- /#form-map -->
                         </div><!-- /#search-form-rent -->
                         <div class="tab-pane fade" id="search-form-rent">
                             <form role="form" id="form-map-rent" class="form-map form-search clearfix">
@@ -319,13 +295,12 @@
                                         </div><!-- /.form-group -->
                                     </div>
                                 </div>
-                            </form><!-- /#form-map-rent -->
-                        </div>
+                            </form><!-- /#form-map -->
+                        </div><!-- /#search-form-sale -->
                     </div><!-- /.tab-content -->
                 </div><!-- /.search-box -->
             </div><!-- /.container -->
         </div><!-- /.search-box-inner -->
-        <div class="background-image"><img class="opacity-20" src="assets/img/searchbox-bg.jpg"></div>
     </div>
     <!-- end Search Box -->
 
