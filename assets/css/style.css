@@ -52,7 +52,7 @@ a h1, a h2, a h3, a h4 {
   -moz-transition: 0.2s;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-  color: #073855;
+  color: #707F27;
 }
 
 blockquote {
@@ -110,7 +110,7 @@ blockquote .cite footer {
 
 body {
   background-color: #fff;
-  color: #5a5a5a;
+  color: #393C29;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -141,12 +141,14 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
-  font-weight: lighter;
+  font-size: 29px;
+  font-weight: 100;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   margin-bottom: 30px;
   margin-top: 10px;
   padding-bottom: 15px;
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #889926;
 }
 
 h3 {
@@ -421,11 +423,11 @@ ul.list-links li a:hover {
   bottom: 2px;
 }
 .link-arrow:hover {
-  color: #2a2a2a;
+  color: #94AD23;
   cursor: pointer;
 }
 .link-arrow:hover:after {
-  color: #073855;
+  color: #94AD23;
   left: 5px;
 }
 .link-arrow.geo-location:after {
@@ -894,10 +896,11 @@ ul.list-links li a:hover {
     width: 100%;
 }
 #page-footer .inner h3 {
-    color: #2a2a2a;
-    font-weight: normal;
+    color: #94AD23;
+    font-weight: 100;
     margin-bottom: 30px;
     margin-top: 0;
+    font-family: 'Alegreya Sans', sans-serif;
 }
 #page-footer .inner #footer-main {
     background-color: #f3f3f3;
@@ -1358,19 +1361,22 @@ ul.list-links li a:hover {
   vertical-align: middle;
 }
 .banner .title {
-  color: #2a2a2a;
+  color: #fff;
   font-size: 24px;
-  font-weight: lighter;
+  font-weight: 300;
   width: 70%;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 .banner .submit {
-  color: #1396e2;
-  font-size: 18px;
+  color: #558B31;
+  font-size: 28px;
   text-align: right;
   width: 30%;
+  font-family: 'Alegreya Sans', sans-serif;
+
 }
 .banner .submit i {
-  color: #073855;
+  color: #558B31;
   margin-left: 10px;
 }
 
@@ -2519,7 +2525,7 @@ ul.list-links li a:hover {
   font-weight: lighter;
 }
 .property .overlay .additional-info {
-  background-color: #073855;
+  background-color: #C8D676;
   display: table;
   height: 30px;
   list-style: none;
@@ -2539,12 +2545,17 @@ ul.list-links li a:hover {
 }
 .property .overlay .additional-info li header {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
-  opacity: 0.5;
-  font-size: 11px;
+  opacity: 1;
+  font-size: 18px;
+  font-family: 'Alegreya Sans', sans-serif;
+  width: 400;
+  text-align: center;
 }
 .property .overlay .additional-info li figure {
-  font-size: 11px;
+  font-size: 17px;
   font-weight: bold;
+  text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 .property .overlay .info {
   background: -moz-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.75) 100%);
@@ -3479,16 +3490,29 @@ ul.list-links li a:hover {
 }
 .submission-message header {
   color: #889926;
-  font-size: 48px;
-  font-weight: lighter;
+  font-size: 45px;
+  font-weight: 100;
   margin: 10px 0;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 .submission-message p, .submission-message a {
   margin-bottom: 60px;
   color: #93834D;
-  font-size: 1em;
+  font-size: 20px;
+  font-family: 'Alegreya Sans', sans-serif;
+  width: 100 !important;
 }
 
+.submission-message p, .submission-message a:hover{
+
+  color: #94AD23 !important;
+}
+
+
+.submission-message p, .submission-message a:hover{
+
+  color: #94AD23 !important;
+}
 /****
   T
 ****/
@@ -5571,7 +5595,12 @@ body, html {
   .navigation .secondary-navigation {
     filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
     opacity: 1;
-    background-color: #073855;
+    background-color: #fff;
+    color: #94AD23;
+    font-size: 20px;
+
+    font-family: 'Alegreya Sans', sans-serif;
+
   }
   .navigation .secondary-navigation .contact {
     display: none;
