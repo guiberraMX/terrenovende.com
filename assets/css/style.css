@@ -2551,13 +2551,13 @@ ul.list-links li a:hover {
 .property .overlay .additional-info li header {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
   opacity: 1;
-  font-size: 18px;
+  font-size: 15px;
   font-family: 'Alegreya Sans', sans-serif;
   width: 400;
   text-align: center;
 }
 .property .overlay .additional-info li figure {
-  font-size: 17px;
+  font-size: 14px;
   font-weight: bold;
   text-align: center;
   font-family: 'Alegreya Sans', sans-serif;
