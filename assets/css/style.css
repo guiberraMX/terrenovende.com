@@ -3771,7 +3771,7 @@ ul.list-links li a:hover {
 }
 
 .marker-style {
-  border: 3px solid #1396e2;
+  border: 3px solid #94ad23;
   text-align: center;
   width: 34px;
   height: 34px;
@@ -3797,7 +3797,7 @@ ul.list-links li a:hover {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background-color: #1396e2;
+  background-color: #94ad23;
   content: "";
   height: 31px;
   position: absolute;
@@ -3827,7 +3827,7 @@ ul.list-links li a:hover {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  border: 3px solid #1396e2;
+  border: 3px solid #94ad23;
   content: "";
   display: block;
   height: 34px;
@@ -3912,7 +3912,7 @@ ul.list-links li a:hover {
   -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
   background: #fff;
-  border-top: 6px solid #073855;
+  border-top: 6px solid #94ad23;
   font-size: 12px;
   position: relative;
   margin-bottom: 50px;
@@ -3960,7 +3960,7 @@ ul.list-links li a:hover {
   -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
   -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
-  background-color: #1396e2;
+  background-color: #94ad23;
   color: #fff;
   font-size: 14px;
   font-weight: bold;
@@ -3975,7 +3975,7 @@ ul.list-links li a:hover {
   font-weight: bold;
 }
 .infobox-wrapper .infobox-inner .infobox-title a {
-  color: #073855;
+  color: #393c29;
 }
 .infobox-wrapper .infobox-inner .infobox-description {
   padding: 8px;
