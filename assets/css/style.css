@@ -35,11 +35,12 @@ a {
   -moz-transition: 0.2s;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-  color: #1396e2;
+  color: #558B31;
   outline: none !important;
 }
 a:hover {
   text-decoration: none;
+  color: #558B31;
 }
 a:hover h1, a:hover h2, a:hover h3, a:hover h4 {
   color: #393C29;
@@ -2884,7 +2885,7 @@ ul.list-links li a:hover {
   line-height: 1;
   text-transform: none;
   content: "\f111";
-  color: #1396e2;
+  color: #94AD23;
   font-size: 8px;
   position: relative;
   bottom: 2px;
@@ -2951,7 +2952,7 @@ ul.list-links li a:hover {
   R
 ****/
 .rating img {
-  background-color: #1396e2;
+  background-color: #94AD23;
 }
 .rating .inner img {
   background-color: #1396e2;
@@ -3744,13 +3745,13 @@ ul.list-links li a:hover {
   display: table-cell;
 }
 .universal-button figure {
-  color: #1396e2;
+  color: #94AD23;
   font-size: 28px;
   width: 40px;
 }
 .universal-button .arrow {
   bottom: 0;
-  color: #1396e2;
+  color: #94AD23;
   height: 15px;
   margin: auto;
   position: absolute;
