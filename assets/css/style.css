@@ -42,7 +42,7 @@ a:hover {
   text-decoration: none;
 }
 a:hover h1, a:hover h2, a:hover h3, a:hover h4 {
-  color: #1396e2;
+  color: #393C29;
 }
 a:focus, a:active {
   outline: none !important;
@@ -53,6 +53,10 @@ a h1, a h2, a h3, a h4 {
   -webkit-transition: 0.2s;
   transition: 0.2s;
   color: #707F27;
+}
+
+h4 :hover{
+  color: #707F27 !important;
 }
 
 blockquote {
