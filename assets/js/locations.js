@@ -1,5 +1,21 @@
 var locations = [
-    ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.87, 2.29, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "217.50m2", "$2,600,00 m2", 19.045120, -98.286179, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "425m2", "$2,100,00 m2", 19.039261, -98.282913, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "420m2", "$3,000,00 m2", 19.039261, -98.282913, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "6,041m2", "$3,500,00 m2", 19.030491, -98.277489, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "Próximamente", "", 19.041121, -98.290718, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "1,000m2", "", 19.033371, -98.305328, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "20,000m2", "$1,200,00 m2", 19.050657, -98.321953, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "206m2", "$1,262,00 m2", 19.084980, -98.315796, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "697m2", "$3,500,00 m2", 19.046671, -98.284370, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "675m2", "$3,500,00 m2", 19.046671, -98.284370, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+
+
+
+     
+
+     /*
+
     ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.866876, 2.309639, "property-detail.html", "assets/img/properties/property-02.jpg", "assets/img/property-types/apartment.png"],
 
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.874796, 2.299275, "property-detail.html", "assets/img/properties/property-03.jpg", "assets/img/property-types/construction-site.png"],
@@ -31,7 +47,7 @@ var locations = [
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.893534, 2.276616, "property-detail.html", "assets/img/properties/property-02.jpg", "assets/img/property-types/construction-site.png"],
     ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.872570, 2.237349, "property-detail.html", "assets/img/properties/property-03.jpg", "assets/img/property-types/cottage.png"],
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.879344, 2.226191, "property-detail.html", "assets/img/properties/property-04.jpg", "assets/img/property-types/garage.png"],
-     /*
+    
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.860374, 2.222242, "property-detail.html", "assets/img/properties/property-05.jpg", "assets/img/property-types/condominium.png"],
     ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.845917, 2.265673, "property-detail.html", "assets/img/properties/property-06.jpg", "assets/img/property-types/cottage.png"],
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.843092, 2.306013, "property-detail.html", "assets/img/properties/property-07.jpg", "assets/img/property-types/warehouse.png"],
