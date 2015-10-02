@@ -1,14 +1,14 @@
 var locations = [
-    ['San Andrés Cholula', "217.50m2", "$2,600,00 m2", 19.045120, -98.286179, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "425m2", "$2,100,00 m2", 19.039261, -98.282913, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "420m2", "$3,000,00 m2", 19.039261, -98.282913, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "6,041m2", "$3,500,00 m2", 19.030491, -98.277489, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "Próximamente", "", 19.041121, -98.290718, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "1,000m2", "", 19.033371, -98.305328, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "20,000m2", "$1,200,00 m2", 19.050657, -98.321953, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "206m2", "$1,262,00 m2", 19.084980, -98.315796, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "697m2", "$3,500,00 m2", 19.046671, -98.284370, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
-    ['San Andrés Cholula', "675m2", "$3,500,00 m2", 19.046671, -98.284370, "property-detail.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "217.50m2", "$2,600,00 m2", 19.045120, -98.286179, "propiedades.html", "assets/img/properties/t1.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "425m2", "$2,100,00 m2", 19.039261, -98.282913, "propiedades.html", "assets/img/properties/t2.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "420m2", "$3,000,00 m2", 19.039261, -98.282913, "propiedades.html", "assets/img/properties/t3.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "6,041m2", "$3,500,00 m2", 19.030491, -98.277489, "propiedades.html", "assets/img/properties/t4.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "Próximamente", "", 19.041121, -98.290718, "propiedades.html", "assets/img/properties/t5.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "1,000m2", "", 19.033371, -98.305328, "propiedades.html", "assets/img/properties/t6.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "20,000m2", "$1,200,00 m2", 19.050657, -98.321953, "propiedades.html", "assets/img/properties/t7.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "206m2", "$1,262,00 m2", 19.084980, -98.315796, "propiedades.html", "assets/img/properties/t8.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "697m2", "$3,500,00 m2", 19.046671, -98.284370, "propiedades.html", "assets/img/properties/t9.jpg", "assets/img/property-types/apartment.png"],
+    ['San Andrés Cholula', "675m2", "$3,500,00 m2", 19.046671, -98.284370, "propiedades.html", "assets/img/properties/t10.jpg", "assets/img/property-types/apartment.png"],
 
 
 
