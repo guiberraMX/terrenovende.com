@@ -13,7 +13,7 @@ function createHomepageGoogleMap(_latitude,_longitude){
     if( document.getElementById('map') != null ){
         $.getScript("assets/js/locations.js", function(){
             var map = new google.maps.Map(document.getElementById('map'), {
-                zoom: 14,
+                zoom: 12,
                 scrollwheel: false,
                 center: new google.maps.LatLng(_latitude, _longitude),
                 mapTypeId: google.maps.MapTypeId.ROADMAP,
