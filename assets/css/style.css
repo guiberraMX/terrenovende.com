@@ -5937,6 +5937,12 @@ body, html {
 
 
 
+.descri{
+  font-size: 22px !important;
+}
+
+
+
 .fine h1{
   width: 100 !important;
   font-family: 'Alegreya Sans', sans-serif !important;
